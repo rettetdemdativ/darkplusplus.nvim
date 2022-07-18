@@ -56,6 +56,7 @@ if vim.o.background == 'dark' then
         vscLightRed = '#D16969',
         vscYellowOrange = '#D7BA7D',
         vscYellow = '#DCDCAA',
+        vscBrightOrange = '#FFAB40',
         vscPink = '#C586C0',
     }
 else
