@@ -42,7 +42,7 @@ if vim.o.background == 'dark' then
         vscFoldBackground = '#202d39',
 
         -- Syntax colors
-        vscGray = '#808080',
+        vscGray = '#757882',
         vscViolet = '#646695',
         vscBlue = '#569CD6',
         vscDarkBlue = '#223E55',
