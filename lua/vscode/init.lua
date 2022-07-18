@@ -19,6 +19,8 @@ vscode.setup = function(user_opts)
                        or vim.g.vscode_transparent == 1),
         italic_comments = (vim.g.vscode_italic_comment == true
                            or vim.g.vscode_italic_comment == 1),
+        italic_keyword_letvar = (vim.g.vscode_italic_keyword_letvar == true
+                            or vim.g.vscode_italic_keyword_letvar == 1),
         italic_keyword_constant = (vim.g.vscode_italic_keyword_constant == true
                             or vim.g.vscode_italic_keyword_constant == 1),
         italic_keyword_function = (vim.g.vscode_italic_keyword_function == true
