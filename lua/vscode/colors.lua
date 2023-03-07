@@ -52,6 +52,33 @@ colors.get_colors = function()
 
             vscContext = '#404040',
             vscContextCurrent = '#707070',
+            -- Syntax colors
+            vscGray = '#757882',
+            vscViolet = '#646695',
+            vscBlue = '#569CD6',
+            vscDarkBlue = '#223E55',
+            vscMediumBlue = '#18a2fe',
+            vscLightBlue = '#9CDCFE',
+            vscTeal = '#26c6da',
+            vscGreenTeal = '#4EC9B0',
+            vscGreen = '#6A9955',
+            vscBrightGreen = '#AEEA00',
+            vscBlueGreen = '#4EC9B0',
+            vscLightGreen = '#B5CEA8',
+            vscRed = '#F44747',
+            vscOrange = '#CE9178',
+            vscLightRed = '#D16969',
+            vscYellowOrange = '#D7BA7D',
+            vscYellow = '#DCDCAA',
+            vscBrightYellow = '#FFD54F',
+            vscBrightOrange = '#FFAB40',
+            vscPink = '#C586C0',
+        }
+    else
+        colors = {
+            vscNone = 'NONE',
+            vscFront = '#343434',
+            vscBack = '#FFFFFF',
 
             vscFoldBackground = '#202d39',
 
